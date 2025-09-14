@@ -4,7 +4,7 @@ Three.js boilerplate for React with TailwindCSS, GSAP, Drei and shadcn/ui ready 
 
 Look into the Acknowledgements section down below in order to quickly see the technologies bootstrapped.
 
-To view this application live, [click here](https://r3f-vite-boilerplate.vercel.app/) 🚀
+To view this application live, [click here](https://mm-r3f-vite-boilerplate.vercel.app/) 🚀
 
 ## Acknowledgements
 
